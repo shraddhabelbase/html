@@ -1,0 +1,89 @@
+ .one{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li{
+    float: left;
+}
+
+.one1{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+.one2{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    text-decoration: none;}
+
+.first{ border: 2px solid red;
+    height: 120px;
+    width: 300px;
+    margin-top: 5px;
+    position: relative;
+    float: left;
+}
+.second{ border: 2px solid white;
+    height: 2300px;
+    width: 1025px;
+    margin-top: 5px;
+    float: left;
+}
+.twoo{ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+margin-bottom: 2px;
+font-color: red;
+padding: 10px}
+ .three{ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+margin-bottom: 1px;
+padding: 10px}
+    .four{ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding: 10px;
+margin-bottom: 1px}
+.five{ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+margin-bottom: 1px;
+padding: 10px}
+.six{ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+margin-bottom: 1px;
+padding: 10px}
+.seven{ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+margin-bottom: 1px;
+padding: 10px}
+    
